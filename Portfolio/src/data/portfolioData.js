@@ -88,7 +88,7 @@ export const data = {
       shortDesc:
         "Micro-SaaS that enriches a company name via API, scores the lead with simple ML logic, and auto-generates a personalized outbound email template.",
       tech: ["React", "Tailwind CSS", "Python", "Clearbit API", "OpenAI API", "CRM Webhooks"],
-      liveDemo: "https://salesforge-demo.vercel.app",
+      liveDemo: "#",
       repo: "https://github.com/hamandandrabi/salesforge",
     },
     {
@@ -96,7 +96,7 @@ export const data = {
       shortDesc:
         "Interactive web app that builds a localized go-to-market plan (messaging, playbook, competitors, 3-yr projection) for any selected market.",
       tech: ["Next.js", "Tailwind CSS", "Chart.js", "JSON Strategy DB"],
-      liveDemo: "https://gtm-blueprint.vercel.app",
+      liveDemo: "#",
       repo: "https://github.com/hamandandrabi/geo-gtm-blueprint",
     },
     {
@@ -104,7 +104,7 @@ export const data = {
       shortDesc:
         "KPI dashboard that visualizes team attainment, pipeline health & auto-surfaces coaching opportunities for every Account Executive.",
       tech: ["React", "Tailwind CSS", "Mock-JSON Dataset", "Progressive Bars", "Conditional Insights"],
-      liveDemo: "https://ae-coach.vercel.app",
+      liveDemo: "#",
       repo: "https://github.com/hamandandrabi/ae-performance-coach",
     },
   ],
